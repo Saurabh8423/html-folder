@@ -1,0 +1,15 @@
+div {
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+}
+h1 {
+    color: brown;
+    margin-right: 10px;
+}
+h3 {
+    color: black;
+    margin-right: 10px;
+}
